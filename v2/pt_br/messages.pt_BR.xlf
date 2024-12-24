@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Documentos</target>
+                <target>Documentação</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -66,6 +66,18 @@
                 <source>German</source>
                 <target>Alemão</target>
             </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>Tcheco</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>Dinamarquês</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>Bósnio</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>Búlgaro</target>
@@ -77,6 +89,10 @@
             <trans-unit id="locale-french">
                 <source>French</source>
                 <target>Francês</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Coreano</target>
             </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
@@ -98,6 +114,10 @@
                 <source>Spanish</source>
                 <target>Espanhol</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>Persa</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>Polonês</target>
@@ -114,6 +134,14 @@
                 <source>Greek</source>
                 <target>Grego</target>
             </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>Serbian</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>Georgian</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Lituano</target>
@@ -126,9 +154,17 @@
                 <source>Romanian</source>
                 <target>Romeno</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Eslovaco</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Russo</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>Tailandês</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
@@ -232,7 +268,7 @@
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>eu concordo com os <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">termos da licença</a>]]> e reconheço a <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">polítiva de privacidade</a>]]>.</target>
+                <target>eu concordo com os <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">termos da licença</a>]]> e reconheço a <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">política de privacidade</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
@@ -392,7 +428,7 @@
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>Nenhum Eventos encontrado.</target>
+                <target>Nenhum evento encontrado.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
@@ -416,7 +452,7 @@
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>notificação excluída.</target>
+                <target>Notificação excluída.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
@@ -428,7 +464,7 @@
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Encontro</target>
+                <target>Data</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
@@ -504,7 +540,7 @@
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Modelo</target>
+                <target>Tipo</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
@@ -528,11 +564,11 @@
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Anywhere-IPv4</target>
+                <target>Qualquer - IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Anywhere-IPv6</target>
+                <target>Qualquer - IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
@@ -664,7 +700,7 @@
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Servidor de banco de dados foi adicionado.</target>
+                <target>O servidor de banco de dados foi adicionado.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
@@ -1584,7 +1620,7 @@
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Confira os documentos.</target>
+                <target>Confira a documentação.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>

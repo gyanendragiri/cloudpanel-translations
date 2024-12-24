@@ -66,6 +66,18 @@
                 <source>German</source>
                 <target>德语</target>
             </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>捷克语</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>丹麥文</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>波斯尼亚语</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>保加利亚语</target>
@@ -77,6 +89,10 @@
             <trans-unit id="locale-french">
                 <source>French</source>
                 <target>法语</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>朝鲜语</target>
             </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
@@ -98,6 +114,10 @@
                 <source>Spanish</source>
                 <target>西班牙语</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>波斯语</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>波兰语</target>
@@ -114,6 +134,14 @@
                 <source>Greek</source>
                 <target>希腊语</target>
             </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>Serbian</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>Georgian</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>立陶宛语</target>
@@ -126,9 +154,17 @@
                 <source>Romanian</source>
                 <target>罗马尼亚语</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>斯洛伐克语</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>俄语</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>泰语</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
@@ -840,7 +876,7 @@
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>大小</target>
+                <target>规格</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>

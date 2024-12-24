@@ -66,6 +66,18 @@
                 <source>German</source>
                 <target>Γερμανικά</target>
             </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>Τσεχικά</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>Δανικά</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>Βοσνιακά</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>Βουλγαρικά</target>
@@ -77,6 +89,10 @@
             <trans-unit id="locale-french">
                 <source>French</source>
                 <target>Γαλλικά</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Κορεατικά</target>
             </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
@@ -98,6 +114,10 @@
                 <source>Spanish</source>
                 <target>Ισπανικά</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>Περσικά</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>Πολωνικά</target>
@@ -114,6 +134,14 @@
                 <source>Greek</source>
                 <target>Ελληνικά</target>
             </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>Serbian</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>Georgian</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Λιθουανικά</target>
@@ -126,9 +154,17 @@
                 <source>Romanian</source>
                 <target>Ρουμανικά</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Σλοβακικά</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Ρωσικά</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>Ταϊλανδικά</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
